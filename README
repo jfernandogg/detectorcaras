@@ -1,0 +1,2 @@
+This code is for detecting a face on a rtsp camera stream.
+Usage python2 ./scanrtsp.py -p deploy.prototxt.txt -c 0.3 -m res10_300x300_ssd_iter_140000.caffemodel
