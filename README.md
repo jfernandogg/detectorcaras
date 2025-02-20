@@ -61,4 +61,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 Pull requests are welcome! Feel free to open an issue for feature requests or bug reports.
 
 ## Author
-[Your Name](https://github.com/yourusername)
+[Juan F Gallego](https://github.com/jfernandogg)
